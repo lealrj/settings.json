@@ -1,0 +1,4 @@
+apvarun.celestial
+icrawl.discord-vscode
+miguelsolorio.fluent-icons
+miguelsolorio.symbols
